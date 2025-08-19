@@ -44,12 +44,9 @@ Citation
 If you use this work in your research, please cite:
 
 @project{Threshold-Autoregressive-model-integrated-with-Random-forest-for-IAQ-forecasting,
-  
-  title={Threshold-Autoregressive-model-integrated-with-Random-forest-for-IAQ-forecasting},
-  
-  author={Samiksha Sandeep Zokande},
-  
-  year={2025}
+        title={Threshold-Autoregressive-model-integrated-with-Random-forest-for-IAQ-forecasting},
+        author={Samiksha Sandeep Zokande},
+        year={2025}
 }
 
 Contributing
