@@ -56,8 +56,3 @@ Contributions are welcome! Feel free to fork this repository, create a new branc
 Contact
 For questions or collaboration opportunities, reach out at:
 samikshazokande29@gmail.com
-
-
-
-For questions or collaboration opportunities, reach out at:
-your.email@example.com
