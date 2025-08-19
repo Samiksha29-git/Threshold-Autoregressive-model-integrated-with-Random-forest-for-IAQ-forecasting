@@ -43,11 +43,10 @@ Extend hybrid model with deep learning architectures (LSTM, TCN, Transformer).
 Citation
 If you use this work in your research, please cite:
 
-@project{iaq_prediction_2025,
-  title={Indoor Air Quality (IAQ) Prediction using TAR + RF},
+@project{Threshold-Autoregressive-model-integrated-with-Random-forest-for-IAQ-forecasting,
+  title={Threshold-Autoregressive-model-integrated-with-Random-forest-for-IAQ-forecasting},
   author={Samiksha Sandeep Zokande},
-  year={2025},
-  note={}
+  year={2025}
 }
 
 Contributing
