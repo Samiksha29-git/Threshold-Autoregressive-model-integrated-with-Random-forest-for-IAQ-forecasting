@@ -1,3 +1,4 @@
+About the project
 Indoor Air Quality (IAQ) plays a crucial role in human health, especially as people spend increasing amounts of time indoors. Poor IAQ, caused by pollutants such as PM2.5, PM10, and CO, can pose serious long-term health risks.
 This project focuses on predicting indoor pollutants using a Threshold Autoregressive (TAR) model integrated with Random Forest (RF) to achieve high prediction accuracy.
 Traditional models such as ARIMA, SARIMA, TBATS, VAR, and Exponential Smoothing were also employed for comparison, but their limitations in handling non-linear, non-stationary time series data became evident.
